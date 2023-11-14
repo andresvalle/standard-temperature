@@ -1,3 +1,3 @@
-https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=14.61&lon=-90.60&dt=1631815200&appid=c6886c204ddcc53786a07fdc282bc878&units=metric
+https://api.openweathermap.org/data/2.5/onecall/timemachine?lat=14.61&lon=-90.60&dt=1631815200&appid=[insertKEY]&units=metric
 
 
