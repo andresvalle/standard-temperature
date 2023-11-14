@@ -1,0 +1,8 @@
+https://api.openweathermap.org/data/2.5/onecall/timemachine?
+lat=14.61
+&lon=-90.60
+&dt=[unix timestamp]
+&appid=[insertKEY]
+&units=metric
+
+
