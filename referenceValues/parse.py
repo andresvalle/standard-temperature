@@ -8,7 +8,7 @@ with open('15sep.json') as jsonFile:
 
 summary = dict()
 localTimezone = tzlocal.get_localzone()
-fileOut = open('referencia15.tsv', 'w')
+fileOut = open('referencia16.tsv', 'w')
 
 for key in data['hourly']:
     summary[key['dt']] = [ key['temp'] , key['humidity'] ]
