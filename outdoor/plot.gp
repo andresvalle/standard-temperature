@@ -4,3 +4,4 @@ set xdata time
 
 est=0.1
 p 'ambientePila.tsv' u 1:3:(est) w yerr, 'ambienteTecho.tsv' u 1:3:(est) w yerr
+#pause -1
